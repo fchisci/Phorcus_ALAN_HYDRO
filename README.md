@@ -11,8 +11,9 @@ Filippo Chisci1,2, Cristiano Bertolucci3,4, Paolo Lazzari5, Elena Maggi6
 Trieste, Italy
 6. Department of Biology, CoNISMa, University of Pisa, Pisa, Italy
 
-The repository contains a single R script and three datasets:
+The repository contains a single R script and three datasets in both xls and csv format:
 
 Phorcusturbinatus.xls contains the data required for all analyses of P. turbinatus density in control areas and areas impacted by ALAN.
+
 Position.xls contains the position of all individuals observed in each plot.
 Verticalmovement.xlsx contains data on the vertical movement of individuals between the Dusk and Night observation phases.
